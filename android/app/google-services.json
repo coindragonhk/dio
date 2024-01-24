@@ -1,0 +1,153 @@
+{
+  "project_info": {
+    "project_number": "691068197962",
+    "project_id": "cdmobilestore",
+    "storage_bucket": "cdmobilestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691068197962:android:e500852fc4f5032e0bdab3",
+        "android_client_info": {
+          "package_name": "com.coindragon.CDTestApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691068197962-tdk05jsp172k43rpv29qocqmimij3hac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coindragon.CDTestApp",
+            "certificate_hash": "8eeade209f95ce2ffc9fdb3e63d804585cc2382d"
+          }
+        },
+        {
+          "client_id": "691068197962-6nslkjcdjvdaheq7kflqj561alif8j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHIDNQTvo6PJ2W4iJ5at1dn21invz_TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691068197962-6nslkjcdjvdaheq7kflqj561alif8j1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691068197962-bdmpd8pdrmnbe08t1sd5u830mtsacnkk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dtg.dragonrewards",
+                "app_store_id": "1610089593"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691068197962:android:52460b5fde0e26240bdab3",
+        "android_client_info": {
+          "package_name": "com.coindragon.droid.cdmobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691068197962-8lnbonao70l5l6d63rt0c48ok8vq8nbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coindragon.droid.cdmobapp",
+            "certificate_hash": "8eeade209f95ce2ffc9fdb3e63d804585cc2382d"
+          }
+        },
+        {
+          "client_id": "691068197962-hi7t7v2bolglj6jf78nts3m8k9lnl73q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coindragon.droid.cdmobapp",
+            "certificate_hash": "26d4cdc6af39ef1ad1dd47e17eb1dc7c856f985d"
+          }
+        },
+        {
+          "client_id": "691068197962-vm87hbg8cq6fm8qcgqkko275mvgi9v2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coindragon.droid.cdmobapp",
+            "certificate_hash": "f33f8c026ad3a6db32ac5f974f4a75858b85ddca"
+          }
+        },
+        {
+          "client_id": "691068197962-6nslkjcdjvdaheq7kflqj561alif8j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHIDNQTvo6PJ2W4iJ5at1dn21invz_TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691068197962-6nslkjcdjvdaheq7kflqj561alif8j1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691068197962-bdmpd8pdrmnbe08t1sd5u830mtsacnkk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dtg.dragonrewards",
+                "app_store_id": "1610089593"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691068197962:android:8e71c416a63acb7a0bdab3",
+        "android_client_info": {
+          "package_name": "com.dtg.dragonrewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691068197962-6nslkjcdjvdaheq7kflqj561alif8j1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHIDNQTvo6PJ2W4iJ5at1dn21invz_TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691068197962-6nslkjcdjvdaheq7kflqj561alif8j1b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691068197962-bdmpd8pdrmnbe08t1sd5u830mtsacnkk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dtg.dragonrewards",
+                "app_store_id": "1610089593"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
